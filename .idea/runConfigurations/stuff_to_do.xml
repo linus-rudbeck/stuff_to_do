@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="stuff_to_do" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="se.distansakademin.Main" />
+    <module name="stuff_to_do" />
+    <option name="PROGRAM_PARAMETERS" value="example.org linus.com rudbeck.nu" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
